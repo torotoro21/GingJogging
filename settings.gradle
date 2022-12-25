@@ -1,0 +1,2 @@
+rootProject.name='GingJogging'
+include ':app'

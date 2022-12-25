@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ging Jogging</string>
+    <string name="place_holder_time">00:00:00</string>
+    <string name="start">start</string>
+    <string name="stop">Stop</string>
+    <string name="lanjut">lanjut</string>
+    <string name="skuyy">skuyy</string>
+</resources>
