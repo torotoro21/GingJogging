@@ -1,6 +1,6 @@
-dibuat oleh 
+Made by: 
 - angga 
-- ilham
+- Muhamad Ilham
 - iqbal
 
 referensi
